@@ -1,0 +1,6 @@
+[submodule "fatcow"]
+	path = fatcow
+	url = https://github.com/gammasoft/fatcow
+[submodule "QUdev"]
+	path = QUdev
+	url = https://github.com/jpfeiffer/QUdev
